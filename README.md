@@ -3,7 +3,7 @@
 A vast simple Android library that extends TextView for Display It's value in Persian Format.
 
 **Usage:**
-```
+```xml
 <com.miladmoafi.persmatview.PFTextView
         android:layout_width="wrap_content"
         android:text="Orange Costs 12 Rials"
