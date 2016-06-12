@@ -20,6 +20,7 @@ public class PFTextView extends TextView {
         this.setText(ConvertPersian(this.getText().toString()));
     }
 
+    //Milad Moafi
     private String ConvertPersian(String string) {
         return string.replaceAll("0", "۰")
                 .replaceAll("1", "۱")
